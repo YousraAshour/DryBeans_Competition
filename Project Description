@@ -1,0 +1,7 @@
+
+<Dry Beans>
+
+This is a Kaggle competition. 
+Given a set of features extracted from the shape of the beans in images, it's required to predict the type of each bean. There are 7 bean types in the dataset.
+
+Competition link: https://www.kaggle.com/competitions/dry-beans-classification-iti-ai-pro-intake02/overview
